@@ -1,8 +1,7 @@
 # Demonstration
 
-
-![demonstration](https://user-images.githubusercontent.com/47576846/230513897-42ea1e98-4014-4fe5-a472-8394594c26eb.png)
 ![demonstration](https://user-images.githubusercontent.com/47576846/230513368-b541b8d5-b54c-4e87-9305-73040115651a.gif)
+![demonstration](https://user-images.githubusercontent.com/47576846/230513897-42ea1e98-4014-4fe5-a472-8394594c26eb.png)
 
 # parceledApp
 
