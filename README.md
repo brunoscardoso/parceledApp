@@ -1,10 +1,8 @@
 # Demonstration
 
-![demonstration](https://user-images.githubusercontent.com/47576846/230513368-b541b8d5-b54c-4e87-9305-73040115651a.gif)
 
-![home](https://user-images.githubusercontent.com/47576846/230513371-5e8a1209-bc55-4a78-b58b-5c682567bcd0.png)
-![details](https://user-images.githubusercontent.com/47576846/230513372-552b0c8e-7dc2-4bdf-ad8f-4b5212db46f2.png)
-![search](https://user-images.githubusercontent.com/47576846/230513375-33450348-38f4-4e91-849c-9fa5ccbe4326.png)
+![demonstration](https://user-images.githubusercontent.com/47576846/230513897-42ea1e98-4014-4fe5-a472-8394594c26eb.png)
+![demonstration](https://user-images.githubusercontent.com/47576846/230513368-b541b8d5-b54c-4e87-9305-73040115651a.gif)
 
 # parceledApp
 
